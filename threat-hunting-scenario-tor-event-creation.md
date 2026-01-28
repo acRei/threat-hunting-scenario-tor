@@ -78,12 +78,6 @@ DeviceFileEvents
 - **Author Name**: Alejandro Castillo
 - **Author Contact**: [https://www.linkedin.com/in/Alejandr-Castillo/](https://www.linkedin.com/in/alejandro-castillo-156907218/)
 - **Date**: January 27, 2026
-
-## Validated By:
-- **Reviewer Name**: 
-- **Reviewer Contact**: 
-- **Validation Date**: 
-
 ---
 
 ## Additional Notes:
